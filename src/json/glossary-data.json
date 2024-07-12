@@ -1,0 +1,6 @@
+[
+  {
+    "term": "JSX",
+    "definition": "Embeddable XML-like syntax supported by TypeScript to be used directly within TypeScript, as long as the file has a .tsx extension"
+  }
+]
